@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { MainApp } from "./components/09-useCountext/MainApp";
+import { MainApp } from "./components/09-useContext/MainApp";
 
 // import { TodoApp } from "./components/08-useReducer/TodoApp";
 // import { CallbackHook } from "./components/06-memos/CallbackHook";
